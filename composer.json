@@ -1,0 +1,11 @@
+{
+    "name": "zain/dummy",
+    "description": "Dummy to test composer and satis",
+    "authors": [
+        {
+            "name": "Zain ul abidin",
+            "email": "zain@aligent.com.au"
+        }
+    ],
+    "require": {}
+}
