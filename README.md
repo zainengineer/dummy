@@ -1,2 +1,3 @@
 # dummy
-dummy repository for test commits
+dummy test repository for test commits
+to test satis
